@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/peyman-rasouli-89a0431a7//">
   <img align="left" alt="Peyman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <a href="https://www.facebook.com/peyman.rasouli.104/">
-  <img align="left" alt="Peyman's FaceBook" width="22px" src="@/../assests/img/social/fb.png" />
+  <img align="left" alt="Peyman's FaceBook" width="22px" src="@/../assests/fb.png" />
 </a>
 <a href="https://www.instagram.com/peymanrasouliX">
-  <img align="left" alt="Peyman's Instagram" width="22px" src="@/../assests/img/social/insta.png" />
+  <img align="left" alt="Peyman's Instagram" width="22px" src="@/../assests/insta.png" />
 </a>
 
 
