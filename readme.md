@@ -9,7 +9,7 @@
   <img align="left" alt="Peyman's FaceBook" width="22px" src="@/assests/fb.png" />
 </a>
 <a href="https://www.instagram.com/peymanrasouliX">
-  <img align="left" alt="Peyman's Instagram" width="22px" src="https://github.com/peymanrasoulix/peymanrasoulix/blob/main/assests/insta.png" />
+  <img align="left" alt="Peyman's Instagram" width="22px" src="/../blob/main/assests/insta.png" />
 </a>
 
 
